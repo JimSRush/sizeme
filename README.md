@@ -1,4 +1,4 @@
-# screenshot.py
+# sizeme.py
 
 This is a small command line python script that:
 - takes a file from the command line with a list of resources (images)
