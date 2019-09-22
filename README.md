@@ -22,3 +22,7 @@ This is a small command line python script that:
 `python3 size.py -b https://mycool.website -f myAwesomeFile`
 
 ## output
+
+('Image file size: 99794', 'Image dimensions: (1440, 770)', 'Filename: https://somecool.website/somecoolfile.jpg')
+('Image file size: 89940', 'Image dimensions: (1280, 640)', 'Filename: https://somecool.website/anothercoolfile.jpg')
+('Image file size: 66377', 'Image dimensions: (720, 531)', 'Filename: https://somecool.website/finalfinalfinalv1.jpg')
